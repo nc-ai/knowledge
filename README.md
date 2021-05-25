@@ -5,7 +5,7 @@
 ### Conferences
 [5] Jinbae Im, Moonki Kim, Hoyeop Lee, Hyunsouk Cho, Sehee Chung. "Self-Supervised Multimodal Opinion Summarization." Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021). [[Code]](https://github.com/nc-ai/knowledge/tree/master/publications/MultimodalSum)
 
-[4] Seongwon Jang, Hoyeop Lee, Hyunsouk Cho, Sehee Chung. "CITIES: Contextual Inference of Tail-item Embeddings for Sequential Recommendation." Proceedings of the 20th IEEE International Conference on Data Mining (ICDM 2020). [[Code]](https://github.com/nc-ai/knowledge/tree/master/publications/CITIES)
+[4] Seongwon Jang, Hoyeop Lee, Hyunsouk Cho, Sehee Chung. "CITIES: Contextual Inference of Tail-item Embeddings for Sequential Recommendation." Proceedings of the 20th IEEE International Conference on Data Mining (ICDM 2020). [[Paper]](https://arxiv.org/pdf/2105.10868.pdf) [[Code]](https://github.com/swonj90/CITIES)
 
 [3] Gyeongbok Lee, Seung-won Hwang, Hyunsouk Cho. "SQuAD2-CR: Semi-supervised Annotation for Cause and Rationales for Unanswerability in SQuAD 2.0." Proceedings of The 12th Language Resources and Evaluation Conference (LREC 2020). [[Paper]](https://www.aclweb.org/anthology/2020.lrec-1.667/) [[Code]](https://antest1.github.io/SQuAD2-CR)
 
