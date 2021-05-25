@@ -1,3 +1,3 @@
 # CITIES: Contextual Inference of Tail-item Embeddings for Sequential Recommendation
 
-Source code will be released.
+Source code: https://github.com/swonj90/CITIES
